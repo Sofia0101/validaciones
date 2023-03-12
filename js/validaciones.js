@@ -1,4 +1,9 @@
 
+// const inputNacimiento = document.querySelector("#birth");
+
+// inputNacimiento.addEventListener("blur", (evento) => {
+//     validarNacimiento(evento.target);
+// })
 
 
 export function valida(input) {
